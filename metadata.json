@@ -1,0 +1,5 @@
+{
+  "name": "Global Medicine Discovery System",
+  "description": "A searchable medical knowledge hub to find medicines, understand usage, and know when to consult doctors.",
+  "requestFramePermissions": []
+}
